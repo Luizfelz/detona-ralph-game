@@ -1,4 +1,4 @@
-# Detona Ralph Game
+# Wreck-It Ralph Game
 
 This project was done as a requirement to complete the [Dio](https://www.dio.me/) course module.
 
